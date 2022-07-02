@@ -1,5 +1,75 @@
+@charset "UTF-8";
+/* 清除網頁預設值 clean fit*/
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+a,
+address,
+big,
+cite,
+code,
+em,
+img,
+ol,
+ul,
+li,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+embed,
+figure,
+figcaption,
+footer,
+header,
+menu,
+nav,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
 body {
   font-family: "Montserrat", Fraunces, roboto;
-  font-size: 14px;
   background-color: #f2ebe3;
+}
+
+.caption-text {
+  font-size: 10px;
 }
