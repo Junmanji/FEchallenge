@@ -49,7 +49,7 @@ To see how you can add code snippets, see below:
 
 ```html
 <button
-  class="w-full bg-darkCyan capitalize p-2 md:p-3 rounded text-xs text-white font-medium flex flex-row justify-center items-center hover:bg-emerald-600 active:bg-emerald-800 transition-all focus:ring"
+  class="w-full bg-darkCyan capitalize p-2 min-h-[2.5rem] rounded text-xs text-white font-medium flex flex-row justify-center items-center hover:bg-emerald-600 active:bg-emerald-900 transition-all focus:ring"
 ></button>
 ```
 
