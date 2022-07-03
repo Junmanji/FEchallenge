@@ -1,4 +1,9 @@
 $bg-cream: #f2ebe3;
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap");
+// @tailwind base;
+// @tailwind components;
+// @tailwind utilities;
+
 /* 清除網頁預設值 clean fit*/
 html,
 body,
@@ -65,6 +70,6 @@ section {
 }
 
 body {
-  font-family: "Montserrat", Fraunces, roboto;
+  font-family: "Montserrat", Fraunces, roboto, sans-serif;
   background-color: $bg-cream;
 }
